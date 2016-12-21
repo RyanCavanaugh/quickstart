@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "experimentalDecorators": true,
+        "plugins": [{
+            "name": "@angular/language-service"
+        }]
+    },
+    "files": ["a.ts"]
+}
